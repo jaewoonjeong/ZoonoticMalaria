@@ -1,8 +1,6 @@
 # Edge-Rich Landscapes Drive Zoonotic Malaria Spillover During Deforestation
 
 
-**Edge ratio : R code file for conceptualization of edge ratio**
-
 **Baseline.R : R code file for the baseline model**
 
 **Scenarios.RData : R data file for the three scenarios**
