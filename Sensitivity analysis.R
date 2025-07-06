@@ -2,7 +2,7 @@ library(sensobol)
 library(ggplot2)
 library(dplyr)
 
-# Generate the sensitivity indices (your existing code)
+# Generate the sensitivity indices 
 N <- 2000
 params <- c("N_W0", "k_w", "c_M", "epsilon_p", "sigma")
 #set.seed(123)
